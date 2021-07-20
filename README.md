@@ -7,3 +7,4 @@ Project 1 - Word Search
    2. ./wordsearch (filename)
 
 Project 2 - Binary search
+  Install Mars.jar and run
