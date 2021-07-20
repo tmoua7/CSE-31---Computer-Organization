@@ -3,5 +3,7 @@ Learning about the search process of word search in C and binary search in MIPS 
 
 Project 1 - Word Search
   To run the c file          
-   1. gcc wordsearch.cpp -o wordsearch
+   1. gcc wordsearch.cpp -o (filename)
    2. ./wordsearch (filename)
+
+Project 2 - Binary search
